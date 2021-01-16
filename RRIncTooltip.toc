@@ -1,0 +1,13 @@
+## Interface: 11306
+## Version: 1
+## Title: |cFF323232RR|r|cFF7F7F7FInc|r |cFF00ACD8Tooltip|r
+## Notes: Addon for RR Inc on EU-ZandalarTribe. By |cFF6600CCPug|r.
+## Author: |cFF6600CCPug|r
+## Dependencies: RRIncData
+## DefaultState: enabled
+# SavedVariables: 
+
+# Libraries\Load_Libraries.xml
+
+RRIncTooltip.lua
+# RRIncTooltip_Options.lua
