@@ -42,6 +42,9 @@ luac.out
 # CMD
 *.CMD
 
+# PS
+*.ps1
+
 #VSCODE
 .vscode
 

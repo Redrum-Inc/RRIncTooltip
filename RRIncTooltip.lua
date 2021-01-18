@@ -71,7 +71,7 @@ local function SetGameToolTipPrice(tt)
 			end
 			
 			tt:AddDoubleLine(" ","")
-			tt:AddDoubleLine("RRIncLoot:",#RRIncData_Loot[itemName].." listed", 1,1,1,1,1,1)
+			tt:AddDoubleLine("Ranking ("..RRIncData_LootTimestamp.."):",#RRIncData_Loot[itemName].." listed", 1,1,1,1,1,1)
 
 			for i=1, #RRIncData_Loot[itemName] do
 				local r = 0 g = 0 b = 0
